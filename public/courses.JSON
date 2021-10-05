@@ -1,0 +1,124 @@
+[
+    {
+    "id": 1,
+    "name": "Computer Science & Engineering",
+    "credit": "132 Credits",
+    "totalCost": "$50000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://hmhub.me/wp-content/uploads/2019/11/diccionario_programador.jpg"
+    
+},
+
+{
+    "id": 2,
+    "name": "Civil Enginnering",
+    "credit": 142,
+    "totalCost": "$60000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://i3.ytimg.com/vi/fJEOJ9U-tkQ/hqdefault.jpg"
+    
+},
+
+{
+    "id": 3,
+    "name": "Electrical Engineering",
+    "credit": "142 Credits",
+    "totalCost": "$70000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://leverageedu.com/blog/wp-content/uploads/2019/09/Electrical.png"
+    
+},
+{
+    "id": 4,
+    "name": "Mechanical Engineering",
+    "credit": "122 Credits",
+    "totalCost": "$40000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://capgemini-engineering.com/as-content/uploads/sites/32/2020/08/header_mechanical_engineering_1600.jpg"
+    
+},
+{
+    "id": 5,
+    "name": "Architecture",
+    "credit": "152 Credits",
+    "totalCost": "$80000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://www.planndesign.com/sites/default/files/articles/architect.jpg"
+    
+},
+{
+    "id": 6,
+    "name": "Biomedical Engineering",
+    "credit": "142 Credits",
+    "totalCost": "$50000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces/https://www.gcu.edu/sites/default/files/media/GettyImages-1193074238.jpg"
+    
+},
+{
+    "id": 7,
+    "name": "Aerospace Engineering",
+    "credit": "132 Credits",
+    "totalCost": "$40000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://www.aib.edu.bd/wp-content/uploads/2018/02/Department-of-Aerospace-1.jpg"
+    
+},
+{
+    "id": 8,
+    "name": "Environmental Engineering",
+    "credit": "132 Credits",
+    "totalCost": "$80000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://idreamcareer.com/wp-content/uploads/2020/03/Environmental-Engineering.jpg"
+    
+},
+{
+    "id": 9,
+    "name": "Marine Engineering",
+    "credit": "142 Credits",
+    "totalCost": "$90000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://images6.content-hci.com/commimg/myhotcourses/blog-inline/myhc_39082.jpg"
+    
+},
+{
+    "id": 10,
+    "name": "Materials and Mineral Engineering",
+    "credit": "135 Credits",
+    "totalCost": "$60000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://datausa.io/api/profile/cip/mining-mineral-engineering/splash"
+    
+},
+{
+    "id": 11,
+    "name": "Industrial Engineering",
+    "credit": "112 Credits",
+    "totalCost": "$30000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://inteng-storage.s3.amazonaws.com/img/iea/o2GzPkdnwp/sizes/industrial-eng-graduates_md.jpg"
+    
+},
+{
+    "id": 12,
+    "name": "Manufacturing Engineering",
+    "credit": "162 Credits",
+    "totalCost": "$100000",
+    "weaver": "10%",
+    "duration": "4Years",
+    "image": "https://www.plm.automation.siemens.com/media/global/en/is-0384-ss-640x360_tcm27-34339.jpg"
+    
+}
+]

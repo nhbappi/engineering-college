@@ -1,0 +1,84 @@
+[
+    {
+    "id": 1,
+    "name": "Albart",
+    "role": "Computer Engineer",
+    "Age": 51,
+    "Email": "albart@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/smiling-man-white-shirt-typing-text-message-scrolling-feed-social-network-using-smartphone-gray_171337-634.jpg"
+    
+},
+  {
+    "id": 2,
+    "name": "Georgy",
+    "role": "Electric Engineer",
+    "Age": 25,
+    "Email": "georry@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Arhami",
+    "role": "Auto Mechanic",
+    "Age": 45,
+    "Email": "Arhami@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Subart",
+    "role": "Civil Engineer",
+    "Age": 51,
+    "Email": "subartt@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/young-handsome-business-man-choosing-car-car-showroom_1303-17901.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Aamal",
+    "role": "Mobile Engineer",
+    "Age": 50,
+    "Email": "aamal@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/young-architect-standing-by-solar-panels_1303-28124.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Prince",
+    "role": "Computer Engineer",
+    "Age": 41,
+    "Email": "prince@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/young-smiling-man-bearded-businessman-pointing-with-two-finger-upward_171337-9572.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jack",
+    "role": "Mechanical Engineer",
+    "Age": 61,
+    "Email": "jack@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/mand-holding-cup_1258-340.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tomas",
+    "role": "Car Engineer",
+    "Age": 31,
+    "Email": "tomas@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/portrait-cheerful-excited-tablet-user-wearing-eyeglasses_1262-18272.jpg"
+  },
+  {
+    "id": 9,
+    "name": "tommy",
+    "role": "Architecture",
+    "Age": 41,
+    "Email": "tommy@gmail.com",
+    "position": "Associate Proffesor",
+    "image": "https://image.freepik.com/free-photo/young-stylish-smiling-man-co-working-office-startup-freelancer-holding-using-tablet_285396-9048.jpg"
+  }
+]
