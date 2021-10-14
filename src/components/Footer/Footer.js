@@ -4,48 +4,51 @@ import './Footer.css'
 const Footer = () => {
     return (
         <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="footer-col">
-                    <h4>company</h4>
-                    <ul>
-                        <li><a href="#">about us</a></li>
-                        <li><a href="#">our services</a></li>
-                        <li><a href="#">privacy policy</a></li>
-                        <li><a href="#">affiliate program</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>get help</h4>
-                    <ul>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">shipping</a></li>
-                        <li><a href="#">returns</a></li>
-                        <li><a href="#">order status</a></li>
-                        <li><a href="#">payment options</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>online shop</h4>
-                    <ul>
-                        <li><a href="#">watch</a></li>
-                        <li><a href="#">bag</a></li>
-                        <li><a href="#">shoes</a></li>
-                        <li><a href="#">dress</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>follow us</h4>
-                    <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-            </div>
+        <div class="l-footer">
+        <h1>
+        <img src="https://i.postimg.cc/y62wcLBq/logo.png" alt=""/></h1>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam atque recusandae in sit sunt molestiae aliquid fugit. Mollitia eaque tempore iure sit nobis? Vitae nemo, optio maiores numquam quis recusandae.</p>
         </div>
-   </footer>
+        <ul class="r-footer">
+        <li>
+          <h2>
+        Social</h2>
+        <ul class="box">
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Pinterest</a></li>
+        <li><a href="#">Dribbble</a></li>
+        </ul>
+        </li>
+        <li class="features">
+          <h2>
+        Information</h2>
+        <ul class="box h-box">
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Pricing</a></li>
+        <li><a href="#">Sales</a></li>
+        <li><a href="#">Tickets</a></li>
+        <li><a href="#">Certifications</a></li>
+        <li><a href="#">Customer Service</a></li>
+        </ul>
+        </li>
+        <li>
+          <h2>
+        Legal</h2>
+        <ul class="box">
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Terms of Use</a></li>
+        <li><a href="#">Contract</a></li>
+        </ul>
+        </li>
+        </ul>
+        <div class="b-footer">
+        <p>
+        All rights reserved by ©CompanyName 2020 </p>
+        </div>
+        </footer>
+        
  
     );
 };
